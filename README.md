@@ -17,13 +17,24 @@ A simple React.js frontend application for smart study tracking that measures fo
 src/
 ├── components/
 │   ├── Dashboard.jsx
-│   ├── Timer.jsx
+│   ├── FocusChart.jsx
+│   ├── Goal.jsx
+│   ├── History.jsx
+│   ├── Insights.jsx
 │   ├── StatsCard.jsx
-│   └── FocusChart.jsx
+│   ├── Streak.jsx
+│   ├── Timer.jsx
+│   └── Weekly.jsx
+│
 ├── hooks/
 │   └── useFocusTracker.js
+│
 ├── utils/
-└── App.jsx
+│
+├── App.jsx
+├── App.css
+├── index.css
+└── main.jsx
 ```
 
 ## Installation
